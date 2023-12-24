@@ -2,10 +2,8 @@
 
 
 Email For Job  
-  email:  1.a.b.c.0.0.0.x.y.z.1+az000za-job@gmail.com
-  
-  subject: Job
-  
+  email:  1.a.b.c.0.0.0.x.y.z.1+az000za-job@gmail.com <br>
+  subject: Job <br>
   body:  <Just Tell Me What Ever>
 
 Programing Skills Looking For
