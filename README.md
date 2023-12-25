@@ -14,7 +14,7 @@ Email For Job
     javascript:          "monthsexperience",<br>
     go:                  "monthsexperience",<br>
     kubernetes:          "monthsexperience",<br>
-    github:              "monthsexperience",<br.
+    github:              "monthsexperience",<br>
     websec:              "monthsexperience",<br>
     message:             "personalmessagehere",<br>
   }
