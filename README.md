@@ -4,7 +4,20 @@
 Email For Job  
   email:  1.a.b.c.0.0.0.x.y.z.1+az000za-job@gmail.com <br>
   subject: Job <br>
-  body:  <Just Tell Me What Ever>
+  body:  {
+    firstname:           <first name here>,
+    lastname:            <last name here>,
+    email:               <email here>,
+    promptengineering:   <monthsexperience>,
+    html:                <monthsexperience>,
+    css:                 <monthsexperience>,
+    javascript:          <monthsexperience>,
+    go:                  <monthsexperience>,
+    kubernetes:          <monthsexperience>,
+    github:              <monthsexperience>,
+    websec:              <monthsexperience>,
+    message:             <personalmessagehere>,
+  }
 
 Programing Skills Looking For
 
